@@ -1,0 +1,28 @@
+body{
+
+.aaa{
+    border-radius: 75px;
+} 
+ 
+*{
+    
+
+    color: rgb(254, 254, 254); /* Cor do texto */
+    font-size: 12px; /* Tamanho da fonte */
+    text-shadow: 
+        1px 1px 2px black,   /* Sombra embaixo e à direita */
+        -1px -1px 2px black, /* Sombra em cima e à esquerda */
+        1px -1px 2px black,  /* Sombra em cima e à direita */
+        -1px 1px 2px black;  /* Sombra embaixo e à esquerda */  
+
+   font-size:large
+}
+
+background-color: rgb(44, 44, 44);
+
+
+
+
+
+
+}
